@@ -1,4 +1,5 @@
-# Hello there welcome to my repo. 🚀
+# Hello there, welcome to my Git
+. 🚀
 
 ## About
 This repository is a playground for my adventures in web development, game development, and 3D modelling. With a focus on .NET, and JavaScript, and now venturing into PHP, I'm passionate about exploring the realms of both web technologies and game design.
