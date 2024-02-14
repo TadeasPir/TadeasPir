@@ -12,8 +12,6 @@ Explore cutting-edge web technologies and frameworks through a collection of pro
 ## 3D Modeling 🎨
 Unleash your creativity with projects focused on 3D modelling and visualization. From creating stunning visualizations to designing immersive environments, dive into the fascinating world of 3D art and design. Whether you're a beginner or an experienced artist, there's something here for everyone to explore and enjoy.
 
-## Contributions 🔧
-I welcome contributions from fellow developers and enthusiasts! Your input is highly valued if you want to suggest improvements, report issues, or collaborate on new features. Let's build awesome projects together and push the boundaries of technology and creativity.
 
 ## Get Started 📚
 Would you be ready to dive in? Explore the repository, check out the projects, and start coding! Whether you're a seasoned developer or just starting, there's plenty to learn and discover here. Let's embark on this journey together and create something amazing!
