@@ -13,5 +13,5 @@ Explore cutting-edge web technologies and frameworks such as Bootstrap, or React
 I'm focusing on Blender and exploring 3D as a whole. 
 
 
-## Let's Connect 🌟
+## Let's Connect 📱
 Feel free to reach out with any questions, ideas, or feedback. Connect with me at [Linked-In](https://www.linkedin.com/in/tade%C3%A1%C5%A1-pirich-77536623b/) to stay updated on the latest developments and join the conversation. Together, let's make magic happen!
