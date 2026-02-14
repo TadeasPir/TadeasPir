@@ -34,11 +34,10 @@ Currently, I'm working as a **Web Developer**, but my academic focus is shifting
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TadeasPir&show_icons=true&theme=radical&hide_border=true" alt="TadeasPir Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadeasPir&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TadeasPir&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
