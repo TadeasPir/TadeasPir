@@ -36,10 +36,10 @@ Currently, I'm working as a **Web Developer**, but my academic focus is shifting
 ---
 
 ### 📊 GitHub Stats
-
-![Tadeas's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeasPir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadeasPir&layout=compact&theme=radical)
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TadeasPir&show_icons=true&theme=radical&hide_border=true" alt="TadeasPir Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadeasPir&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 ---
 
 ### 📫 Connect with me
